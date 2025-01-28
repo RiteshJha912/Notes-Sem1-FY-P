@@ -1,6 +1,6 @@
 ## SVU - 2023 (P - Physics Group all Theory Notes and Lab Experiments)
 
-This repository has been set up to provide easy access to the notes and lab assignments of First Year Engineering students at KJ Somaiya College of Engineering. These resources are from the P group (Physics Group), which are common for all FY students, irrespective of their branch. The aim is to give back to my juniors by making these resources easily accessible to them.
+This repository has been set up to provide easy access to the notes and lab assignments of First Year Engineering students at KJ Somaiya College of Engineering. These resources are from the P group (Physics Group), which are common for all FY students, irrespective of their branch. The goal of this repository is to provide juniors with easy access to essential study materials.
 
 | **Subject**                        | **Notes/Assignments** | **Lab Assignments/Files** |
 |-------------------------------------|-----------------------|---------------------------|
