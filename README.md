@@ -11,8 +11,11 @@
 # Physics and Mechanics Resources
 
 |-------------|-----------|---------------------|
-| Physics     | [Notes](https://github.com/RiteshJha912/Notes-Sem1-FY-P/tree/master/Physics/Suren%20Sir) | [Lab Assignments](https://github.com/RiteshJha912/Notes-Sem1-FY-P/tree/master/Physics/PhyLab) |
+| **Physics**     | [Notes](https://github.com/RiteshJha912/Notes-Sem1-FY-P/tree/master/Physics/Suren%20Sir) | [Lab Assignments](https://github.com/RiteshJha912/Notes-Sem1-FY-P/tree/master/Physics/PhyLab) |
 |---------------|-----------|---------------------|
-| Mechanics     | [Notes](https://github.com/RiteshJha912/Notes-Sem1-FY-P/tree/master/Mechanics/ClassNotes/MechNotes) | [Lab Assignments](https://github.com/RiteshJha912/Notes-Sem1-FY-P/tree/master/Mechanics/Lab) |
-
+| **Mechanics**     | [Notes](https://github.com/RiteshJha912/Notes-Sem1-FY-P/tree/master/Mechanics/ClassNotes/MechNotes) | [Lab Assignments](https://github.com/RiteshJha912/Notes-Sem1-FY-P/tree/master/Mechanics/Lab) |
+|---------------|-----------|---------------------|
+| **Mechanics**     | [Notes](https://github.com/RiteshJha912/Notes-Sem1-FY-P/tree/master/Mechanics/ClassNotes/MechNotes) | [Lab Assignments](https://github.com/RiteshJha912/Notes-Sem1-FY-P/tree/master/Mechanics/Lab) |
+|---------------|-----------|---------------------|
+| **Maths**     | [Assignments](https://github.com/RiteshJha912/Notes-Sem1-FY-P/tree/master/Maths) | 
 
