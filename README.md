@@ -8,8 +8,14 @@
 
 
 
-| Physics |  |  |
-|---------|------|----------------|
-| Notes   | [Link to Notes](https://github.com/RiteshJha912/Notes-Sem1-FY-P/tree/master/Physics/Suren%20Sir) |  |
-| Lab Assignments |  | [Link to Lab Assignments](https://github.com/RiteshJha912/Notes-Sem1-FY-P/tree/master/Physics/PhyLab) |
+# Physics and Mechanics Resources
+
+| **Physics** | **Notes** | **Lab Assignments** |
+|-------------|-----------|---------------------|
+| Physics     | [Notes](https://github.com/RiteshJha912/Notes-Sem1-FY-P/tree/master/Physics/Suren%20Sir) | [Lab Assignments](https://github.com/RiteshJha912/Notes-Sem1-FY-P/tree/master/Physics/PhyLab) |
+
+| **Mechanics** | **Notes** | **Lab Assignments** |
+|---------------|-----------|---------------------|
+| Mechanics     | [Notes](https://github.com/RiteshJha912/Notes-Sem1-FY-P/tree/master/Mechanics/ClassNotes/MechNotes) | [Lab Assignments](https://github.com/RiteshJha912/Notes-Sem1-FY-P/tree/master/Mechanics/Lab) |
+
 
