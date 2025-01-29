@@ -2,6 +2,9 @@
 
 This repository has been set up to provide easy access to the notes and lab assignments of First Year Engineering students at KJ Somaiya College of Engineering. These resources are from the P group (Physics Group), which are common for all FY students, irrespective of their branch. The goal of this repository is to provide juniors with easy access to essential study materials.
 
+#### The below table is for easy navigation, but, feel free to explore the Repository yourself, you might find additional important resources.
+
+
 | **Subject**                        | **Notes/Assignments** | **Lab Assignments/Files** |
 |-------------------------------------|-----------------------|---------------------------|
 | **Physics**                         | [Notes](https://github.com/RiteshJha912/Notes-Sem1-FY-P/tree/master/Physics/Suren%20Sir) | [Lab Assignments](https://github.com/RiteshJha912/Notes-Sem1-FY-P/tree/master/Physics/PhyLab) |
